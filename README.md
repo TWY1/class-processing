@@ -1,0 +1,2 @@
+# class-processing
+在我們使用python selenium時因為要處理class中間的空格非常麻煩每次貼近去都要空格改成.特別是某些非常長的class為了解決這個麻煩性並撰寫出了這個
